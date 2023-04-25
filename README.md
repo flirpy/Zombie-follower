@@ -1,7 +1,7 @@
 Adds an Zombie follower form to Cult of the Lamb, based on the in-game asset of the rotting corpse.
 With the help of [Possum Follower Template](https://cult-of-the-lamb.thunderstore.io/package/KellyBetty/PossumFollower/).
 
-![Zombie follower](https://imgur.com/gallery/oAMrrcI)
+![Zombie follower](https://imgur.com/a/ZTzehmG)
 
 ## Installation
 This mod’s dependencies are BepInEx, COTL_API and COTL_JSONLoader.
