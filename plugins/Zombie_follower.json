@@ -1,0 +1,671 @@
+{
+  "$schema": "https://raw.githubusercontent.com/KBMackenzie/COTL_JSONLoader/master/schema/follower-skin.json",
+  "name": "Zombie",
+  "imagePath": "Zombie_Spritesheet.png",
+  "overrides": [
+    {
+      "name": "HEAD_SKIN_TOP",
+      "rect": "126, 0, 126, 106"
+    },
+    {
+      "name": "HEAD_SKIN_BTM",
+      "rect": "0, 0, 126, 106"
+    },
+    {
+      "name": "HEAD_SKIN_TOP_BACK",
+      "rect": "126, 106, 126, 106"
+    },
+    {
+      "name": "HEAD_SKIN_BTM_BACK",
+      "rect": "0, 106, 126, 106"
+    }	
+  ],
+  "colors": [
+    [
+      {
+        "name": "ARM_LEFT_SKIN",
+        "hex": "#638036"
+      },
+      {
+        "name": "ARM_RIGHT_SKIN",
+        "hex": "#dcc298"
+      },
+      {
+        "name": "LEG_LEFT_SKIN",
+        "hex": "#dcc298"
+      },
+      {
+        "name": "LEG_RIGHT_SKIN",
+        "hex": "#dcc298"
+      },
+      {
+        "name": "BODY_SKIN",
+        "hex": "#dcc298"
+      },
+      {
+        "name": "BODY_SKIN_BOWED",
+        "hex": "#dcc298"
+      },
+      {
+        "name": "BODY_SKIN_UP",
+        "hex": "#dcc298"
+      },
+      {
+        "name": "HEAD_SKIN_BTM",
+        "hex": "#dcc298"
+      },
+      {
+        "name": "HEAD_SKIN_TOP",
+        "hex": "#638036"
+      }
+    ],
+    [
+      {
+        "name": "ARM_LEFT_SKIN",
+        "hex": "#c0bc9e"
+      },
+      {
+        "name": "ARM_RIGHT_SKIN",
+        "hex": "#ffffff"
+      },
+      {
+        "name": "LEG_LEFT_SKIN",
+        "hex": "#ffffff"
+      },
+      {
+        "name": "LEG_RIGHT_SKIN",
+        "hex": "#ffffff"
+      },
+      {
+        "name": "BODY_SKIN",
+        "hex": "#ffffff"
+      },
+      {
+        "name": "BODY_SKIN_BOWED",
+        "hex": "#ffffff"
+      },
+      {
+        "name": "BODY_SKIN_UP",
+        "hex": "#ffffff"
+      },
+      {
+        "name": "HEAD_SKIN_BTM",
+        "hex": "#ffffff"
+      },
+      {
+        "name": "HEAD_SKIN_TOP",
+        "hex": "#c0bc9e"
+      }
+    ],
+    [
+      {
+        "name": "ARM_LEFT_SKIN",
+        "hex": "#c3874a"
+      },
+      {
+        "name": "ARM_RIGHT_SKIN",
+        "hex": "#ffffff"
+      },
+      {
+        "name": "LEG_LEFT_SKIN",
+        "hex": "#ffffff"
+      },
+      {
+        "name": "LEG_RIGHT_SKIN",
+        "hex": "#ffffff"
+      },
+      {
+        "name": "BODY_SKIN",
+        "hex": "#ffffff"
+      },
+      {
+        "name": "BODY_SKIN_BOWED",
+        "hex": "#ffffff"
+      },
+      {
+        "name": "BODY_SKIN_UP",
+        "hex": "#ffffff"
+      },
+      {
+        "name": "HEAD_SKIN_BTM",
+        "hex": "#ffffff"
+      },
+      {
+        "name": "HEAD_SKIN_TOP",
+        "hex": "#c3874a"
+      }
+    ],
+	[
+      {
+        "name": "ARM_LEFT_SKIN",
+        "hex": "#caa100"
+      },
+      {
+        "name": "ARM_RIGHT_SKIN",
+        "hex": "#c0b082"
+      },
+      {
+        "name": "LEG_LEFT_SKIN",
+        "hex": "#c0b082"
+      },
+      {
+        "name": "LEG_RIGHT_SKIN",
+        "hex": "#c0b082"
+      },
+      {
+        "name": "BODY_SKIN",
+        "hex": "#c0b082"
+      },
+      {
+        "name": "BODY_SKIN_BOWED",
+        "hex": "#c0b082"
+      },
+      {
+        "name": "BODY_SKIN_UP",
+        "hex": "#c0b082"
+      },
+      {
+        "name": "HEAD_SKIN_BTM",
+        "hex": "#c0b082"
+      },
+      {
+        "name": "HEAD_SKIN_TOP",
+        "hex": "#caa100"
+      }
+    ],
+	[
+      {
+        "name": "ARM_LEFT_SKIN",
+        "hex": "#85841b"
+      },
+      {
+        "name": "ARM_RIGHT_SKIN",
+        "hex": "#fffbe5"
+      },
+      {
+        "name": "LEG_LEFT_SKIN",
+        "hex": "#fffbe5"
+      },
+      {
+        "name": "LEG_RIGHT_SKIN",
+        "hex": "#fffbe5"
+      },
+      {
+        "name": "BODY_SKIN",
+        "hex": "#fffbe5"
+      },
+      {
+        "name": "BODY_SKIN_BOWED",
+        "hex": "#fffbe5"
+      },
+      {
+        "name": "BODY_SKIN_UP",
+        "hex": "#fffbe5"
+      },
+      {
+        "name": "HEAD_SKIN_BTM",
+        "hex": "#fffbe5"
+      },
+      {
+        "name": "HEAD_SKIN_TOP",
+        "hex": "#85841b"
+      }
+    ],
+	[
+      {
+        "name": "ARM_LEFT_SKIN",
+        "hex": "#85841b"
+      },
+      {
+        "name": "ARM_RIGHT_SKIN",
+        "hex": "#85855d"
+      },
+      {
+        "name": "LEG_LEFT_SKIN",
+        "hex": "#85855d"
+      },
+      {
+        "name": "LEG_RIGHT_SKIN",
+        "hex": "#85855d"
+      },
+      {
+        "name": "BODY_SKIN",
+        "hex": "#85855d"
+      },
+      {
+        "name": "BODY_SKIN_BOWED",
+        "hex": "#85855d"
+      },
+      {
+        "name": "BODY_SKIN_UP",
+        "hex": "#85855d"
+      },
+      {
+        "name": "HEAD_SKIN_BTM",
+        "hex": "#85855d"
+      },
+      {
+        "name": "HEAD_SKIN_TOP",
+        "hex": "#85841b"
+      }
+    ],
+	[
+      {
+        "name": "ARM_LEFT_SKIN",
+        "hex": "#7f470f"
+      },
+      {
+        "name": "ARM_RIGHT_SKIN",
+        "hex": "#c3b177"
+      },
+      {
+        "name": "LEG_LEFT_SKIN",
+        "hex": "#c3b177"
+      },
+      {
+        "name": "LEG_RIGHT_SKIN",
+        "hex": "#c3b177"
+      },
+      {
+        "name": "BODY_SKIN",
+        "hex": "#c3b177"
+      },
+      {
+        "name": "BODY_SKIN_BOWED",
+        "hex": "#c3b177"
+      },
+      {
+        "name": "BODY_SKIN_UP",
+        "hex": "#c3b177"
+      },
+      {
+        "name": "HEAD_SKIN_BTM",
+        "hex": "#c3b177"
+      },
+      {
+        "name": "HEAD_SKIN_TOP",
+        "hex": "#7f470f"
+      }
+    ],
+	[
+      {
+        "name": "ARM_LEFT_SKIN",
+        "hex": "#a92e2e"
+      },
+      {
+        "name": "ARM_RIGHT_SKIN",
+        "hex": "#ab8c7b"
+      },
+      {
+        "name": "LEG_LEFT_SKIN",
+        "hex": "#ab8c7b"
+      },
+      {
+        "name": "LEG_RIGHT_SKIN",
+        "hex": "#ab8c7b"
+      },
+      {
+        "name": "BODY_SKIN",
+        "hex": "#ab8c7b"
+      },
+      {
+        "name": "BODY_SKIN_BOWED",
+        "hex": "#ab8c7b"
+      },
+      {
+        "name": "BODY_SKIN_UP",
+        "hex": "#ab8c7b"
+      },
+      {
+        "name": "HEAD_SKIN_BTM",
+        "hex": "#ab8c7b"
+      },
+      {
+        "name": "HEAD_SKIN_TOP",
+        "hex": "#a92e2e"
+      }
+    ],
+	[
+      {
+        "name": "ARM_LEFT_SKIN",
+        "hex": "#4b5608"
+      },
+      {
+        "name": "ARM_RIGHT_SKIN",
+        "hex": "#5d503b"
+      },
+      {
+        "name": "LEG_LEFT_SKIN",
+        "hex": "#5d503b"
+      },
+      {
+        "name": "LEG_RIGHT_SKIN",
+        "hex": "#5d503b"
+      },
+      {
+        "name": "BODY_SKIN",
+        "hex": "#5d503b"
+      },
+      {
+        "name": "BODY_SKIN_BOWED",
+        "hex": "#5d503b"
+      },
+      {
+        "name": "BODY_SKIN_UP",
+        "hex": "#5d503b"
+      },
+      {
+        "name": "HEAD_SKIN_BTM",
+        "hex": "#5d503b"
+      },
+      {
+        "name": "HEAD_SKIN_TOP",
+        "hex": "#4b5608"
+      }
+    ],
+	[
+      {
+        "name": "ARM_LEFT_SKIN",
+        "hex": "#deebfe"
+      },
+      {
+        "name": "ARM_RIGHT_SKIN",
+        "hex": "#5d503b"
+      },
+      {
+        "name": "LEG_LEFT_SKIN",
+        "hex": "#5d503b"
+      },
+      {
+        "name": "LEG_RIGHT_SKIN",
+        "hex": "#5d503b"
+      },
+      {
+        "name": "BODY_SKIN",
+        "hex": "#5d503b"
+      },
+      {
+        "name": "BODY_SKIN_BOWED",
+        "hex": "#5d503b"
+      },
+      {
+        "name": "BODY_SKIN_UP",
+        "hex": "#5d503b"
+      },
+      {
+        "name": "HEAD_SKIN_BTM",
+        "hex": "#5d503b"
+      },
+      {
+        "name": "HEAD_SKIN_TOP",
+        "hex": "#deebfe"
+      }
+    ],
+	[
+      {
+        "name": "ARM_LEFT_SKIN",
+        "hex": "#3a3a3a"
+      },
+      {
+        "name": "ARM_RIGHT_SKIN",
+        "hex": "#5d503b"
+      },
+      {
+        "name": "LEG_LEFT_SKIN",
+        "hex": "#5d503b"
+      },
+      {
+        "name": "LEG_RIGHT_SKIN",
+        "hex": "#5d503b"
+      },
+      {
+        "name": "BODY_SKIN",
+        "hex": "#5d503b"
+      },
+      {
+        "name": "BODY_SKIN_BOWED",
+        "hex": "#5d503b"
+      },
+      {
+        "name": "BODY_SKIN_UP",
+        "hex": "#5d503b"
+      },
+      {
+        "name": "HEAD_SKIN_BTM",
+        "hex": "#5d503b"
+      },
+      {
+        "name": "HEAD_SKIN_TOP",
+        "hex": "#3a3a3a"
+      }
+    ],
+	[
+      {
+        "name": "ARM_LEFT_SKIN",
+        "hex": "#3a3a3a"
+      },
+      {
+        "name": "ARM_RIGHT_SKIN",
+        "hex": "#b8a793"
+      },
+      {
+        "name": "LEG_LEFT_SKIN",
+        "hex": "#b8a793"
+      },
+      {
+        "name": "LEG_RIGHT_SKIN",
+        "hex": "#b8a793"
+      },
+      {
+        "name": "BODY_SKIN",
+        "hex": "#b8a793"
+      },
+      {
+        "name": "BODY_SKIN_BOWED",
+        "hex": "#b8a793"
+      },
+      {
+        "name": "BODY_SKIN_UP",
+        "hex": "#b8a793"
+      },
+      {
+        "name": "HEAD_SKIN_BTM",
+        "hex": "#b8a793"
+      },
+      {
+        "name": "HEAD_SKIN_TOP",
+        "hex": "#3a3a3a"
+      }
+    ],
+	[
+      {
+        "name": "ARM_LEFT_SKIN",
+        "hex": "#671a1a"
+      },
+      {
+        "name": "ARM_RIGHT_SKIN",
+        "hex": "#616765"
+      },
+      {
+        "name": "LEG_LEFT_SKIN",
+        "hex": "#616765"
+      },
+      {
+        "name": "LEG_RIGHT_SKIN",
+        "hex": "#616765"
+      },
+      {
+        "name": "BODY_SKIN",
+        "hex": "#616765"
+      },
+      {
+        "name": "BODY_SKIN_BOWED",
+        "hex": "#616765"
+      },
+      {
+        "name": "BODY_SKIN_UP",
+        "hex": "#616765"
+      },
+      {
+        "name": "HEAD_SKIN_BTM",
+        "hex": "#616765"
+      },
+      {
+        "name": "HEAD_SKIN_TOP",
+        "hex": "#671a1a"
+      }
+    ],
+	[
+      {
+        "name": "ARM_LEFT_SKIN",
+        "hex": "#671a1a"
+      },
+      {
+        "name": "ARM_RIGHT_SKIN",
+        "hex": "#e1fff4"
+      },
+      {
+        "name": "LEG_LEFT_SKIN",
+        "hex": "#e1fff4"
+      },
+      {
+        "name": "LEG_RIGHT_SKIN",
+        "hex": "#e1fff4"
+      },
+      {
+        "name": "BODY_SKIN",
+        "hex": "#e1fff4"
+      },
+      {
+        "name": "BODY_SKIN_BOWED",
+        "hex": "#e1fff4"
+      },
+      {
+        "name": "BODY_SKIN_UP",
+        "hex": "#e1fff4"
+      },
+      {
+        "name": "HEAD_SKIN_BTM",
+        "hex": "#e1fff4"
+      },
+      {
+        "name": "HEAD_SKIN_TOP",
+        "hex": "#671a1a"
+      }
+    ],
+	[
+      {
+        "name": "ARM_LEFT_SKIN",
+        "hex": "#353535"
+      },
+      {
+        "name": "ARM_RIGHT_SKIN",
+        "hex": "#35312b"
+      },
+      {
+        "name": "LEG_LEFT_SKIN",
+        "hex": "#35312b"
+      },
+      {
+        "name": "LEG_RIGHT_SKIN",
+        "hex": "#35312b"
+      },
+      {
+        "name": "BODY_SKIN",
+        "hex": "#35312b"
+      },
+      {
+        "name": "BODY_SKIN_BOWED",
+        "hex": "#35312b"
+      },
+      {
+        "name": "BODY_SKIN_UP",
+        "hex": "#35312b"
+      },
+      {
+        "name": "HEAD_SKIN_BTM",
+        "hex": "#35312b"
+      },
+      {
+        "name": "HEAD_SKIN_TOP",
+        "hex": "#353535"
+      }
+    ],
+	[
+      {
+        "name": "ARM_LEFT_SKIN",
+        "hex": "#c9c4ae"
+      },
+      {
+        "name": "ARM_RIGHT_SKIN",
+        "hex": "#35312b"
+      },
+      {
+        "name": "LEG_LEFT_SKIN",
+        "hex": "#35312b"
+      },
+      {
+        "name": "LEG_RIGHT_SKIN",
+        "hex": "#35312b"
+      },
+      {
+        "name": "BODY_SKIN",
+        "hex": "#35312b"
+      },
+      {
+        "name": "BODY_SKIN_BOWED",
+        "hex": "#35312b"
+      },
+      {
+        "name": "BODY_SKIN_UP",
+        "hex": "#35312b"
+      },
+      {
+        "name": "HEAD_SKIN_BTM",
+        "hex": "#35312b"
+      },
+      {
+        "name": "HEAD_SKIN_TOP",
+        "hex": "#c9c4ae"
+      }
+    ],
+	[
+      {
+        "name": "ARM_LEFT_SKIN",
+        "hex": "#a81212"
+      },
+      {
+        "name": "ARM_RIGHT_SKIN",
+        "hex": "#e1d6c3"
+      },
+      {
+        "name": "LEG_LEFT_SKIN",
+        "hex": "#e1d6c3"
+      },
+      {
+        "name": "LEG_RIGHT_SKIN",
+        "hex": "#e1d6c3"
+      },
+      {
+        "name": "BODY_SKIN",
+        "hex": "#e1d6c3"
+      },
+      {
+        "name": "BODY_SKIN_BOWED",
+        "hex": "#e1d6c3"
+      },
+      {
+        "name": "BODY_SKIN_UP",
+        "hex": "#e1d6c3"
+      },
+      {
+        "name": "HEAD_SKIN_BTM",
+        "hex": "#e1d6c3"
+      },
+      {
+        "name": "HEAD_SKIN_TOP",
+        "hex": "#a81212"
+      }
+    ]
+  ]
+}
