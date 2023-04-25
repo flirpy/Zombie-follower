@@ -1,0 +1,12 @@
+{
+  "namespace": "Flirpy",
+  "name": "ZombieFollower",
+  "description": "Zombie follower form based on the rotting corpse asset from in-game.",
+  "version_number": "1.2.0",
+  "dependencies": [
+    "BepInEx-BepInExPack_CultOfTheLamb-5.4.2101",
+    "xhayper-COTL_API-0.1.11",
+    "KellyBetty-COTL_JSONLoader-0.1.0"
+  ],
+  "website_url": "https://github.com/IngoHHacks/CotLTemplateMod"
+}
